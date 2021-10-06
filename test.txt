@@ -1,3 +1,7 @@
-hello world!
-haha
+<<<<<<< HEAD
+hello world!!
+
+=======
+hello world!£¡
+>>>>>>> 95c5104... fixed bug1
 
