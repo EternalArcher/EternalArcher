@@ -1,6 +1,2 @@
 hello world!
-<<<<<<< HEAD
-ha haha
-=======
-hello world!
->>>>>>> dev
+
